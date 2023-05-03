@@ -1745,3 +1745,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.03-19.09.29:477][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.05.03-19.09.29:481][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
 [2023.05.03-19.09.29:519][358]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.05.03-19.22.18:669][ 36]LogMaterial: Display: Missing cached shadermap for Lever1 in PCD3D_SM5, Default, SM5 (DDC key hash: F01FAB3D1CDD8A736CA0130DC93D6A83AE9C3EE5), compiling. 
+[2023.05.03-19.22.18:677][ 36]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.05.03-19.22.18:678][ 36]LogMaterial: Display: Missing cached shadermap for DarkMetal in PCD3D_SM5, Default, SM5 (DDC key hash: FFA16ADCEEAB903B992BBB743FB0B93933296A6F), compiling. 
+[2023.05.03-19.22.18:687][ 36]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2023.05.03-19.22.18:687][ 36]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2023.05.03-19.22.18:688][ 36]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2023.05.03-19.22.18:688][ 36]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.03-19.22.18:688][ 36]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2023.05.03-19.22.18:688][ 36]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.05.03-19.22.18:688][ 36]LogStaticMesh: Building static mesh Lever...
+[2023.05.03-19.22.18:709][ 36]LogStaticMesh: Built static mesh [0.02s] /Game/Environment/Lever.Lever
+[2023.05.03-19.22.18:785][ 37]LogActorFactory: Actor Factory created Lever
+[2023.05.03-19.22.19:964][140]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2023.05.03-19.22.19:964][140]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.03-19.22.19:965][140]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.03-19.22.19:966][140]LogShaderCompilers: Display: Total job queries 616, among them cache hits 0 (0.00%)
+[2023.05.03-19.22.19:966][140]LogShaderCompilers: Display: Tracking 489 distinct input hashes that result in 40 distinct outputs (8.18%)
+[2023.05.03-19.22.19:966][140]LogShaderCompilers: Display: RAM used: 0.24 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.05.03-19.22.19:966][140]LogShaderCompilers: Display: ================================================
+[2023.05.03-19.22.20:323][176]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.05.03-19.22.20:323][176]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.03-19.22.20:577][197]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2023.05.03-19.22.20:577][197]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.05.03-19.22.20:608][200]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2023.05.03-19.22.20:608][200]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.05.03-19.22.20:990][235]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2023.05.03-19.22.20:990][235]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.03-19.22.21:002][236]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2023.05.03-19.22.21:002][236]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.03-19.22.21:462][282]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2023.05.03-19.22.21:462][282]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.03-19.22.21:473][283]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.03-19.22.21:473][283]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.03-19.22.21:617][295]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.05.03-19.22.21:617][295]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.05.03-19.22.21:637][296]LogActorFactory: Actor Factory created Lever
+[2023.05.03-19.23.05:507][432]LogStaticMesh: Building static mesh Grass_2...
+[2023.05.03-19.23.05:528][432]LogStaticMesh: Built static mesh [0.02s] /Game/Environment/Grass_2.Grass_2
+[2023.05.03-19.23.05:532][432]LogMaterial: Display: Missing cached shadermap for Green_Light in PCD3D_SM5, Default, SM5 (DDC key hash: FFD331E0975B775405397996882554E33460958A), compiling. 
+[2023.05.03-19.23.05:540][432]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.05.03-19.23.05:577][432]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.05.03-19.23.05:577][432]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.05.03-19.23.05:577][432]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2023.05.03-19.23.05:577][432]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2023.05.03-19.23.05:577][432]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.05.03-19.23.05:577][432]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.05.03-19.23.05:757][450]LogActorFactory: Actor Factory created Grass_2
+[2023.05.03-19.23.06:008][470]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2023.05.03-19.23.06:008][470]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.03-19.23.06:065][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.05.03-19.23.06:065][476]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.03-19.23.06:614][525]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.05.03-19.23.06:614][525]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2023.05.03-19.23.06:614][525]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.05.03-19.23.06:926][557]LogActorFactory: Actor Factory created Grass_2
+[2023.05.03-19.23.11:793][134]Cmd: DELETE
+[2023.05.03-19.23.11:793][134]Cmd: ACTOR DELETE
+[2023.05.03-19.23.11:794][134]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.03-19.23.11:817][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.05.03-19.23.11:820][134]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2023.05.03-19.23.43:681][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.05.03-19.23.43:691][246]LogSavePackage: Moving '../../../../../../Users/5dencs87/Documents/GitHub/ScriptingForGameEnginesUnreal/UnrealProjectForMark/Saved/LevelOne_Auto37955329044B410ECF5CBCCA7A96DC720.tmp' to '../../../../../../Users/5dencs87/Documents/GitHub/ScriptingForGameEnginesUnreal/UnrealProjectForMark/Saved/Autosaves/Game/Maps/LevelOne_Auto3.umap'
+[2023.05.03-19.23.43:692][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/LevelOne' took 0.030
+[2023.05.03-19.23.43:692][246]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2023.05.03-19.23.57:495][686]LogSlate: Window 'PigamgeddonGamepawn' being destroyed
+[2023.05.03-19.24.06:221][593]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.03-19.24.16:289][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.05.03-19.24.16:298][774]LogSavePackage: Moving '../../../../../../Users/5dencs87/Documents/GitHub/ScriptingForGameEnginesUnreal/UnrealProjectForMark/Saved/LevelOneE972607D49C6618A97765CA9FACD2F20.tmp' to '../../../../../../Users/5dencs87/Documents/GitHub/ScriptingForGameEnginesUnreal/UnrealProjectForMark/Content/Maps/LevelOne.umap'
+[2023.05.03-19.24.16:316][774]AssetCheck: New page: Asset Save: LevelOne
+[2023.05.03-19.24.16:316][774]LogContentValidation: Display: Validating World /Game/Maps/LevelOne.LevelOne
